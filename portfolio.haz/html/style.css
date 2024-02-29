@@ -1,0 +1,22 @@
+.banner {
+    background-image: url(../html/images\ \(4\).jpeg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.head {
+    font-size: 30px;
+    color: bisque;
+    padding-bottom: 5px;
+}
+.para {
+    color: blanchedalmond;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.input {
+    display: flex;
+    margin-bottom: 30px; 
+    padding: 10px;
+    text-align: center;
+}
